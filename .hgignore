@@ -1,0 +1,23 @@
+syntax: glob
+
+application/cache/ci_session*
+application/libraries/dompdf/lib/fonts/log.htm*
+application/config/database.php
+since_id
+updated_at_min
+
+.idea
+docker
+
+*.sql
+!DB_UPDATES.sql
+CI_phpStorm.php
+docker-compose.yml
+
+*/.DS_Store
+.DS_Store
+_MACOSX
+
+VERSION
+
+application/logs/log-*.php

@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/php /var/www/platform-to-track-orders/index.php notification send >> /var/log/schedule.log 2>&1
