@@ -46,19 +46,19 @@ You can instruct your audience on installing and setting up your app
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/RababElAmerany94/platform-to-track-orders](https://github.com/RababElAmerany94/platform-to-track-orders)
+   git clone https://github.com/RababElAmerany94/platform-to-track-orders
    ```
 3. Create database.php in application/config
    ```database.php
    example : 'database' => 'test', 'hostname' => 'localhost', 'username' => 'root' .....
    ```
-4. Create database in your local in database.sql in master repository
+4. Create database in your local database server like in database.sql in master repository
    ```localhost
    CREATE DATABASE
    ```
-5. Login : admin , password : admin
+5. Go to Web url "localhost/platform-to-track-orders"
    ```localhost
-   CREATE DATABASE
+   Login : admin , password : admin
    ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
