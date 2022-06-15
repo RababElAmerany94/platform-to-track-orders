@@ -3,8 +3,8 @@
 # Platform To Track Orders
 
 <p align="center">
-<a href="https://github.com/RababElAmerany94/platform-to-track-orders">
-<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/RababElAmerany94/platform-to-track-orders/blob/main/assets/images/site.PNG" />
+<a href="https://github.com/rabelamerany/platform-to-track-orders">
+<img  alt="Rabab El Amerany Project" title="Rabab Project" src="https://github.com/rabelamerany/platform-to-track-orders/blob/main/assets/images/site.PNG" />
 </a>
 </p>
 
@@ -46,7 +46,7 @@ You can instruct your audience on installing and setting up your app
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/RababElAmerany94/platform-to-track-orders
+   git clone https://github.com/rabelamerany/platform-to-track-orders
    ```
 3. Create database.php in application/config
    ```database.php
@@ -68,7 +68,7 @@ You can instruct your audience on installing and setting up your app
 
 Rabab El Amerany - rab.el.amerany@gmail.com
 
-Project Link: [https://github.com/RababElAmerany94/platform-to-track-orders](https://github.com/RababElAmerany94/platform-to-track-orders)
+Project Link: [https://github.com/rabelamerany/platform-to-track-orders](https://github.com/rabelamerany/platform-to-track-orders)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
